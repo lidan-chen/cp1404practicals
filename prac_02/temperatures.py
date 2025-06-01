@@ -21,11 +21,6 @@ end while
 display "Thank you."  
 """
 
-"""
-Convert between Celsius and Fahrenheit using two separate calculation functions,
-and present a simple text‐based menu for user interaction.
-"""
-
 # Constants
 MENU = """C - Convert Celsius to Fahrenheit
 F - Convert Fahrenheit to Celsius
