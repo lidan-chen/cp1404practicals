@@ -1,5 +1,6 @@
 """
 Pseudocode:
+
 prompt for score
 get score as number
 if score < 0 or score > 100
