@@ -1,4 +1,6 @@
 """
+Pseudocode:
+
 display MENU  
 get choice from user and convert to uppercase  
 while choice is not "Q"  
